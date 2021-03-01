@@ -2,12 +2,12 @@
 
 ### Schema pendulului dublu
 
-[comp](./pictures/pendule.png)
+![pendule](./pictures/pendule.png)
 
 ### Modelul matematic:
 
-- [comp](./pictures/model.png)
-- [comp](./pictures/model2.png)
+- ![equations](./pictures/model.png)
+- ![equations](./pictures/model2.png)
 
 Iesirile sunt y1(t) = theta1(t) si y2(t) = theta2(t)
 
